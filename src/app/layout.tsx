@@ -29,7 +29,9 @@ export default function RootLayout({
     <html> 
       <head>
       </head>
-     <body className="bg-gray-50 text-black antialiased w-screen min-h-screen overflow-x-hidden">
+<body
+  className={`${geistSans.variable} ${geistMono.variable} bg-gray-50 text-black antialiased w-screen min-h-screen overflow-x-hidden`}
+>
         <Providers>
           <div className="max-w-7xl mx-auto px-4">{children}</div>
         </Providers>
