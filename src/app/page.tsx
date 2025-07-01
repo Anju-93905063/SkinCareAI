@@ -4,7 +4,6 @@
 import Navigation from "@/components/Navigation";
 import WorkSection from "@/components/Works";
 import Link from "next/link";
-import { motion } from "framer-motion";
 
 export default function Page() {
   return (
