@@ -19,21 +19,21 @@ SkinCareAI is a modern web application that uses AI to analyze skin issues and p
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-                      <img width="467" alt="image" src="https://github.com/user-attachments/assets/ff4cdee0-d36b-4e1d-bb89-b4778908bbf7" />
+  <img width="467" alt="image" src="https://github.com/user-attachments/assets/ff4cdee0-d36b-4e1d-bb89-b4778908bbf7" />
 
 ### 📊 Dashboard (After Analysis)
-                      <img width="630" alt="image" src="https://github.com/user-attachments/assets/51bfb1ec-5cd3-41e8-b97c-1ee7752493b9" />
+  <img width="630" alt="image" src="https://github.com/user-attachments/assets/51bfb1ec-5cd3-41e8-b97c-1ee7752493b9" />
 
                       
 
 Preview
 
 
-                     <img width="469" alt="image" src="https://github.com/user-attachments/assets/6331912f-128d-4ed9-b86e-290b262f21da" />
+  <img width="469" alt="image" src="https://github.com/user-attachments/assets/6331912f-128d-4ed9-b86e-290b262f21da" />
 
 
 ### 🧪 AI Response Section
-                     <img width="625" alt="image" src="https://github.com/user-attachments/assets/b61db479-b170-4fd8-bb62-34a8a58d3365" />
+  <img width="625" alt="image" src="https://github.com/user-attachments/assets/b61db479-b170-4fd8-bb62-34a8a58d3365" />
 
 
 > 📁 Place your actual screenshots in the `/screenshots` folder and rename them as `home.png`, `dashboard.png`, `output.png`.
