@@ -15,11 +15,12 @@ export async function POST(req: NextRequest) {
       },
       { status: 200 }
     );
-  } catch (error: any) {
+  } catch (error: unknown) {
     console.error("API Error:", error);
     return NextResponse.json(
       {
-        message: Error
+        message:
+          error instanceof Error ? error.message : "Something went wrong",
       },
       { status: 500 }
     );
