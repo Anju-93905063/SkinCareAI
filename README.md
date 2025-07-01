@@ -19,6 +19,12 @@ SkinCareAI is a modern web application that uses AI to analyze skin issues and p
 ## 📸 Screenshots
 
 ### 🏠 Home Page
+
+
+<img width="933" alt="image" src="https://github.com/user-attachments/assets/5660186d-2889-4b34-8090-ee16af73e9b1" />
+
+Full Page with feautures
+
   <img width="467" alt="image" src="https://github.com/user-attachments/assets/ff4cdee0-d36b-4e1d-bb89-b4778908bbf7" />
 
 ### 📊 Dashboard (After Analysis)
